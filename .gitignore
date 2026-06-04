@@ -1,0 +1,8 @@
+# SQL Server database files
+*.mdf
+*.ldf
+*.bak
+
+# Editor files
+.vs/
+*.suo
